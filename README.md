@@ -1,5 +1,7 @@
 # Graveyard & Ash: a zombie theme for Claude
 
+<p align="center"><img src="assets/icon.png" width="128" alt="Graveyard and Ash theme icon: a starburst split between the dark green graveyard and the soft ash light mode"></p>
+
 A custom **Claude theme** for the **Claude desktop app** and **Claude mobile app**, with a toxic-green dark mode and a low-glare gray light mode. It installs as a **Claude Code plugin** in about a minute.
 
 **Graveyard (dark mode)**
