@@ -6,7 +6,7 @@ import { makeColors } from './make-colors.js'
 const { theme, problems } = makeColors({
   label: 'Zombie',
   // A surface keeps its own highlighting if it doesn't offer this one.
-  codeTheme: { light: 'github-light-high-contrast' },
+  codeTheme: { light: 'catppuccin-latte', dark: 'vitesse-dark' },
   roles: {
     accent: '#5fae1e', // toxic green
     danger: '#c8323c', // blood red
@@ -88,11 +88,7 @@ export const register: Register = on => {
       $.ui.toast(unpainted)
     }
 
-    const set = await $.theme.set(LOOK)
-
-    if (!set.isDrawn) {
-      $.ui.status(set.reason)
-    }
+    await $.theme.set(LOOK)
 
     return next(e)
   })

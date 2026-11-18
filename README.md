@@ -2,9 +2,21 @@
 
 A custom **Claude theme** for the **Claude desktop app** and **Claude mobile app**, with a toxic-green dark mode and a low-glare gray light mode. It installs as a **Claude Code plugin** in about a minute.
 
-![Illustrated color preview of the Graveyard dark mode and the Ash light mode](assets/preview.svg)
+**Graveyard (dark mode)**
 
-*Illustrated color preview, not a screenshot.*
+![Graveyard dark mode in the Claude desktop app, showing code blocks](assets/preview-dark.png)
+
+**Ash (light mode)**
+
+![Ash light mode in the Claude desktop app, showing code blocks](assets/preview-light.png)
+
+**Across the Code tab (all panes open)**
+
+![Graveyard dark mode across every Code tab pane](assets/panes-dark.png)
+
+![Ash light mode across every Code tab pane](assets/panes-light.png)
+
+> **Scope:** the theme applies to the **Code tab** only. The normal Chat tab keeps Claude's default look.
 
 ## The two looks
 
