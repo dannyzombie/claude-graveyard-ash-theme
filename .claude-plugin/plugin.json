@@ -1,0 +1,10 @@
+{
+  "name": "zombie-theme",
+  "version": "1.0.0",
+  "description": "A zombie theme for the Claude desktop and mobile apps: toxic-green graveyard dark mode and low-glare soft ash light mode.",
+  "author": { "name": "dannyxzombie" },
+  "homepage": "https://github.com/dannyzombie/claude-graveyard-ash-theme",
+  "repository": "https://github.com/dannyzombie/claude-graveyard-ash-theme",
+  "license": "MIT",
+  "keywords": ["claude", "claude-code", "claude-desktop", "theme", "dark-mode", "light-mode", "green", "zombie", "graveyard", "low-glare"]
+}

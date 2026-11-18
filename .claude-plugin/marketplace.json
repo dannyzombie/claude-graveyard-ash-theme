@@ -1,0 +1,11 @@
+{
+  "name": "claude-graveyard-ash-theme",
+  "owner": { "name": "dannyxzombie" },
+  "plugins": [
+    {
+      "name": "zombie-theme",
+      "source": "./",
+      "description": "A zombie theme for the Claude desktop and mobile apps: toxic-green graveyard dark mode and low-glare soft ash light mode."
+    }
+  ]
+}
